@@ -242,6 +242,4 @@ The findings provide useful insights into customer behavior, restaurant performa
 
 **Track:** Data Science and Ai
 
-**Session:** 9
-
 **Project:** Food Delivery Data Analysis

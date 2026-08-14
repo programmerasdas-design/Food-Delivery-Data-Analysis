@@ -239,6 +239,9 @@ The findings provide useful insights into customer behavior, restaurant performa
 ## 📚 Project Type
 
 **Level:** 3
+
 **Track:** Data
+
 **Session:** 9
+
 **Project:** Food Delivery Data Analysis

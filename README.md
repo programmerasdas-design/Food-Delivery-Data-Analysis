@@ -240,7 +240,7 @@ The findings provide useful insights into customer behavior, restaurant performa
 
 **Level:** 3
 
-**Track:** Data
+**Track:** Data Science and Ai
 
 **Session:** 9
 
